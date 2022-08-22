@@ -1,5 +1,5 @@
 # Pre-Work-GC
-Pre-Work Assignment for CodePath's Android App Development course
+Pre-Work Assignment for CodePath's Intro to Android App Development course
 
 ### App Walk-though
 
