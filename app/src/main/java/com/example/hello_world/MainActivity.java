@@ -54,8 +54,11 @@ public class MainActivity extends AppCompatActivity {
                 helloWorld.setTextColor(getResources().getColor(R.color.teal_700));
             }
         }); */
-        }
     }
+}
+
+
+
 
 
 
