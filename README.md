@@ -3,7 +3,7 @@ Pre-Work Assignment for CodePath's Android App Development course
 
 ### App Walk-though
 
-<img src="/HelloWorld.mp4" width=200><br>
+<img src="https://github.com/gabo0802/Pre-Work-GC/blob/main/HelloWorld.mp4" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
